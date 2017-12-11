@@ -1,7 +1,7 @@
 # Site settings
 title: Aksesboentu
-email: egiilhamelnusa1@gmail.com
-url: https://egiilhamelnusa.github.io
+email: yaandripoetra28@gmail.com
+url: https://Yandri281.github.io
 description: "Pada setiap kebuntuan, akan ada waktunya kita menemukan jalan keluar"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -23,7 +23,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/
   - title: github
-    url: https://egiilhamelnusa.github.io
+    url: https:/Yandri281.github.io
 
 # Build settings
 markdown: kramdown
